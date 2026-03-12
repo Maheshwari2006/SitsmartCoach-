@@ -1,0 +1,6 @@
+opencv-python - for camera 
+mediapipe - used for detecting posture 
+numpy - uder foe calculating the elbow angles 
+
+
+
